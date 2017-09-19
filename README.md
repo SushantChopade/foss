@@ -1,2 +1,0 @@
-# foss
-Subject of fycs
